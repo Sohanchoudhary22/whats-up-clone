@@ -1,7 +1,7 @@
 function Main (){
     return(
-        <div classname="main">
-
+        <div className="main">
+          main
         </div>
     )
 }
